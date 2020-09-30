@@ -1,4 +1,4 @@
-Our program asks a user for their name, and then stores that in a name variable. Then, it asks the user for their birthday, and stores it in another variable. It then compares the birthday variable to determine the person's zodiac sign and prints "[user's name], you are a [zodiac sign]"The program asks a user for their name, and then stores that in a name variable. 
+The program asks the user for their name, then stores it in a name variable.
 
 Then, it asks the user for their birthday, and stores the month and day in a month and day variable. 
 
@@ -8,11 +8,11 @@ It prints "[user's name], you are a [zodiac sign].”
 
 
 ```python
-What is your name?	Bob
-What month were you born in? (Number)	3
-What day of the month were you born on?	22
+"What is your name?"	Bob
+"What month were you born in?" (Number)	3
+"What day of the month were you born on?"	22
 
-Bob, you are a Aries
+"Bob, you are a Aries"
 ```
 
 
