@@ -9,17 +9,17 @@ It prints "[user's name], you are a [zodiac sign].”
 Here are a few snippits of how it works:
 
 ```python
-name = input(“What is your name?”)
-month = int(input(“What month were you born in? (Number)”))
-day = int(input(“What day of the month were you born on?”))
+name = input("What is your name?")
+month = int(input("What month were you born in? (Number)"))
+day = int(input("What day of the month were you born on?"))
 ```
 
 ```python
 if(month == 6):
-if(day<=20):
-	sign = “Gemini”
-else:
-	sign = “Cancer”
+	if(day<=20):
+		sign = "Gemini"
+	else:
+		sign = "Cancer"
 ```
 
 
