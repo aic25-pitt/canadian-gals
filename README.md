@@ -9,7 +9,7 @@ It prints "[user's name], you are a [zodiac sign].”
 
 ```python
 "What is your name?"	Bob
-"What month were you born in?" (Number)	3
+"What month were you born in? (Number)"	3
 "What day of the month were you born on?"	22
 
 "Bob, you are a Aries"
